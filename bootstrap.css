@@ -3442,7 +3442,7 @@ input[type="button"].btn-block {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
-  border-top: 2px solid rgba(0, 0, 0, 0.15);
+  border-top: 1px solid #646464;
 }
 
 .dropdown-item {
